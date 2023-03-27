@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Practice_PacificManpower/build/static/css/main.44f8b8b5.css",
+    "main.js": "/Practice_PacificManpower/build/static/js/main.7e511e49.js",
+    "static/js/787.b4224f61.chunk.js": "/Practice_PacificManpower/build/static/js/787.b4224f61.chunk.js",
+    "index.html": "/Practice_PacificManpower/build/index.html",
+    "main.44f8b8b5.css.map": "/Practice_PacificManpower/build/static/css/main.44f8b8b5.css.map",
+    "main.7e511e49.js.map": "/Practice_PacificManpower/build/static/js/main.7e511e49.js.map",
+    "787.b4224f61.chunk.js.map": "/Practice_PacificManpower/build/static/js/787.b4224f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.7e511e49.js"
+  ]
+}
