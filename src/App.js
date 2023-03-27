@@ -225,7 +225,7 @@ const App = () => {
     <>
       <div className="App">
         <FileUpload />
-        <EditDel />
+        {/* <EditDel /> */}
       </div>
     </>
   );
